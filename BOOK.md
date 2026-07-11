@@ -4,12 +4,9 @@ subtitle: "把零散资料变成可追溯、可复用、可交付的成果"
 author: "齐天大圣"
 date: "2026 年 7 月"
 lang: "zh-CN"
-rights: Copyright © 2026 齐天大圣。
-
-本书采用 Creative Commons Attribution 4.0 International
-（CC BY 4.0）许可协议发布。
-
-允许复制、分享、修改、翻译与商业使用，但需注明作者“齐天大圣”、原始仓库地址、CC BY 4.0 许可，并说明是否修改过内容。
+rights: "Copyright © 2026 齐天大圣。本书采用 CC BY 4.0 许可。"
+description: "面向知识工作者、内容创作者与研究者的 NotebookLM 独立实战指南。"
+---
 
 # 版权与版本
 
@@ -18,9 +15,15 @@ rights: Copyright © 2026 齐天大圣。
 **作者**：齐天大圣  
 **版本**：v1.0，2026 年 7 月修订  
 
-Copyright © 2026 齐天大圣。保留所有权利。未经书面许可，不得以商业目的复制、改编、分发或重新包装本书内容。
+Copyright © 2026 齐天大圣。
+
+本书采用 Creative Commons Attribution 4.0 International（CC BY 4.0）许可协议发布。
+
+允许复制、分享、修改、翻译与商业使用，但需注明作者“齐天大圣”、原始仓库地址、CC BY 4.0 许可，并说明是否修改过内容。
 
 本书为独立创作的非官方指南，与 Google 无隶属或授权关系。NotebookLM、Google 及相关产品名称和商标归其权利人所有。书中功能状态、额度与访问条件会持续变化，请以产品官方说明为准。
+
+---
 
 ---
 
