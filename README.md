@@ -9,10 +9,9 @@
 <p align="center">齐天大圣 著 · 免费开放 · 持续更新</p>
 
 <p align="center">
-  <a href="./BOOK.md">在线阅读全文</a> ·
-  <a href="./book/README.md">按章节阅读</a> ·
-  <a href="./releases/NotebookLM从基础到高阶-v1.0.epub">下载 EPUB</a> ·
-  <a href="./CHANGELOG.md">更新记录</a>
+  <a href="./BOOK.md">📖 在线阅读全文</a> ·
+  <a href="https://github.com/zhouzhousensi/Notebooklm-Guide/releases/latest">⬇️ 下载 EPUB</a> ·
+  <a href="./CHANGELOG.md">📰 更新记录</a>
 </p>
 
 ## 这本书解决什么问题
